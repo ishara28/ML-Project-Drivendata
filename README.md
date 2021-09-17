@@ -1,4 +1,4 @@
-Link for the repo - https://github.com/ishara28/ML-Project-Drivendata
+#### Link for the repo - [https://github.com/ishara28/ML-Project-Drivendata](https://github.com/ishara28/ML-Project-Drivendata)
 
 ### **Data Cleaning**
 
@@ -56,11 +56,21 @@ Link for the repo - https://github.com/ishara28/ML-Project-Drivendata
 - Label encoded all the categorical columns.
 - Finally, this cleaned and refined data are saved as &#39;Refined\_data.csv
 
+### **Preprocessing**
+
+- Handled missing values as described above.
+- Used Standard scaling for normalization.
+- Used label encoding for categorical features.
+
 ### **Feature Selection**
 
 - For the feature selection, I used &#39;Sequential Feature Selection&#39; (SFS)
 - Done SFS with Random Forest
 - Selected features with max score
+
+### **Post-processing approaches**
+
+- Done Feature Importance to check what are the most important features for the classification.
 
 ### **Model Evaluation**
 
